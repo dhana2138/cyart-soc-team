@@ -1,0 +1,4 @@
+Alert ID,IP,Reputation,Notes
+3,192.168.1.100,Malicious,Linked to Command and Control (C2) activity
+4,192.168.1.100,Suspicious,Multiple reports of brute-force attempts
+5,192.168.1.100,Malicious,Flagged by threat intelligence sources

@@ -1,0 +1,11 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1174/sshd: /usr/sbi 
+tcp6       0      0 :::80                   :::*                    LISTEN      1147/apache2        
+tcp6       0      0 :::22                   :::*                    LISTEN      1174/sshd: /usr/sbi 
+tcp6       0      0 :::9090                 :::*                    LISTEN      740/prometheus      
+tcp6       0      0 :::3000                 :::*                    LISTEN      1151/grafana        
+tcp6       0      0 ::1:9090                ::1:56982               ESTABLISHED 740/prometheus      
+tcp6       0      0 ::1:54114               ::1:9090                ESTABLISHED 740/prometheus      
+tcp6       0      0 ::1:56982               ::1:9090                ESTABLISHED 1151/grafana        
+tcp6       0      0 ::1:9090                ::1:54114               ESTABLISHED 740/prometheus      
