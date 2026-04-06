@@ -1,0 +1,6 @@
+Playbook Step,Status,Notes
+Alert detected,Success,Phishing email identified
+Extract IP,Success,IP extracted from alert
+Check IP (VirusTotal),Success,Marked as malicious
+Block IP,Success,IP blocked successfully
+Create ticket,Success,Incident created
