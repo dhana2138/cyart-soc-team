@@ -1,0 +1,5 @@
+Time,User,Event Description,Rule ID,Level,Notes
+"Apr 6, 2026 10:31:57",dhanavelan-VirtualBox,PAM: User login failed,5503,5,Multiple failed login attempts
+"Apr 6, 2026 10:31:49",dhanavelan-VirtualBox,PAM: User login failed,5503,5,Possible brute force attempt
+"Apr 6, 2026 10:31:43",dhanavelan-VirtualBox,PAM: User login failed,5503,5,Repeated authentication failure
+"Apr 6, 2026 10:31:31",dhanavelan-VirtualBox,PAM: User login failed,5503,5,Suspicious login activity

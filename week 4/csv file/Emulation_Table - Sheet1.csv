@@ -1,0 +1,2 @@
+Time,Attack,Detected,Notes
+Apr 6 2026 11:00,Samba Exploit (T1210),Yes,Wazuh detected suspicious activity indicating exploitation of remote service
